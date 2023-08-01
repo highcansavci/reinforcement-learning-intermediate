@@ -5,5 +5,8 @@ Learning advanced RL techniques and DQN.
 ![Ekran Görüntüsü (786)](https://github.com/highcansavci/reinforcement-learning-intermediate/assets/43791867/ac016de0-25b6-44ab-b11e-f5645e7d6625)
 * Policy Gradient Methods:
 ![Ekran Görüntüsü (787)](https://github.com/highcansavci/reinforcement-learning-intermediate/assets/43791867/a3966ca4-9257-4b44-a3a7-d3eb03d25423)
+* Policy Gradient:
+![Ekran Görüntüsü (791)](https://github.com/highcansavci/reinforcement-learning-intermediate/assets/43791867/b756c89e-d078-4414-a439-2dd0acac1e55)
+
 
 
